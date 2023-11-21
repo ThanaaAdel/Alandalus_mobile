@@ -1,0 +1,241 @@
+{
+  "v": "4.8.0",
+  "meta": {
+    "g": "LottieFiles AE 3.1.1",
+    "a": "",
+    "k": "",
+    "d": "",
+    "tc": ""
+  },
+  "fr": 29.9700012207031,
+  "ip": 0,
+  "op": 90.0000036657751,
+  "w": 1080,
+  "h": 1920,
+  "nm": "Comp 1",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 747,
+      "h": 747,
+      "u": "",
+      "p": "data:image/png;base64,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AACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUWIdAACixDoAAESJdQAAiBLrAAAQJdYBACBKrAMAQJRYBwCAKLEOAABRYh0AAKLEOgAARIl1AACIEusAABAl1gEAIEqsAwBAlFgHAIAosQ4AAFFiHQAAosQ6AABEiXUAAIgS6wAAECXWAQAgSqwDAECUWAcAgCixDgAAUcfuAQDAv1x3DwBO83MH7+oRtADKFzwAAAAASUVORK5CYII=",
+      "e": 1
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "Layer 1/logo icon white.ai",
+      "cl": "ai",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 1,
+          "k": [
+            {
+              "i": {
+                "x": 0.833,
+                "y": 0.833
+              },
+              "o": {
+                "x": 0.167,
+                "y": 0.167
+              },
+              "t": 60,
+              "s": [
+                540,
+                960,
+                0
+              ],
+              "to": [
+                0,
+                0,
+                0
+              ],
+              "ti": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "i": {
+                "x": 0,
+                "y": 0.986
+              },
+              "o": {
+                "x": 0.167,
+                "y": 0.167
+              },
+              "t": 77,
+              "s": [
+                540,
+                960,
+                0
+              ],
+              "to": [
+                -200.667,
+                0,
+                0
+              ],
+              "ti": [
+                200.667,
+                0,
+                0
+              ]
+            },
+            {
+              "t": 89.0000036250443,
+              "s": [
+                -664,
+                960,
+                0
+              ]
+            }
+          ],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            373.5,
+            373.5,
+            0
+          ],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [
+            {
+              "i": {
+                "x": [
+                  0.667,
+                  0.667,
+                  0.667
+                ],
+                "y": [
+                  1,
+                  1,
+                  1
+                ]
+              },
+              "o": {
+                "x": [
+                  0.167,
+                  0.167,
+                  0.167
+                ],
+                "y": [
+                  0.167,
+                  0.167,
+                  11.611
+                ]
+              },
+              "t": 68,
+              "s": [
+                25.729,
+                25.729,
+                100
+              ]
+            },
+            {
+              "i": {
+                "x": [
+                  0.833,
+                  0.833,
+                  0.833
+                ],
+                "y": [
+                  0.833,
+                  0.833,
+                  12.611
+                ]
+              },
+              "o": {
+                "x": [
+                  0.333,
+                  0.333,
+                  0.333
+                ],
+                "y": [
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "t": 73,
+              "s": [
+                20.729,
+                20.729,
+                100
+              ]
+            },
+            {
+              "i": {
+                "x": [
+                  0,
+                  0,
+                  0.667
+                ],
+                "y": [
+                  0.963,
+                  0.963,
+                  1
+                ]
+              },
+              "o": {
+                "x": [
+                  0.167,
+                  0.167,
+                  0.167
+                ],
+                "y": [
+                  0.167,
+                  0.167,
+                  12.31
+                ]
+              },
+              "t": 77,
+              "s": [
+                25.729,
+                25.729,
+                100
+              ]
+            },
+            {
+              "t": 89.0000036250443,
+              "s": [
+                486.729,
+                486.729,
+                100
+              ]
+            }
+          ],
+          "ix": 6
+        }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 90.0000036657751,
+      "st": 59.0000024031193,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1076575539006",
+    "project_id": "alandalos-3e08e",
+    "storage_bucket": "alandalos-3e08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076575539006:android:630506ef2e737a47bb666f",
+        "android_client_info": {
+          "package_name": "com.app.alandalos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076575539006-kn5303g0jb9ttfke6ccm3kt0fs1nk7j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.alandalos",
+            "certificate_hash": "62c0c059ecaef79901b7185d078c78ee29682d37"
+          }
+        },
+        {
+          "client_id": "1076575539006-613hsr6ch8db5qui9ak0018kve93gh4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqP5qES25PT0oxDlXrsvbVZbx6vWlVz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076575539006-613hsr6ch8db5qui9ak0018kve93gh4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076575539006-ura2fm9k6105q3a9b7squvaa2kk366vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.alandalos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
